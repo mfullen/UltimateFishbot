@@ -6,12 +6,12 @@ using System.Resources;
 // Les informations générales relatives à un assembly dépendent de 
 // l'ensemble d'attributs suivant. Changez les valeurs de ces attributs pour modifier les informations
 // associées à un assembly.
-[assembly: AssemblyTitle("UltimateFishBot")]
+[assembly: AssemblyTitle("GOMNOM")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Open Source")]
-[assembly: AssemblyProduct("UltimateFishBot")]
-[assembly: AssemblyCopyright("Copyright ©  2015")]
+[assembly: AssemblyCompany("GOM")]
+[assembly: AssemblyProduct("GOMNOM")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -21,7 +21,7 @@ using System.Resources;
 [assembly: ComVisible(false)]
 
 // Le GUID suivant est pour l'ID de la typelib si ce projet est exposé à COM
-[assembly: Guid("cb7daccc-7a0f-4e3f-a70d-67d002151ac8")]
+[assembly: Guid("d6664efd-34e1-460d-b004-831c5f388b69")]
 
 // Les informations de version pour un assembly se composent des quatre valeurs suivantes :
 //

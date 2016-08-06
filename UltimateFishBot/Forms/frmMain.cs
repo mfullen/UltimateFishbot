@@ -43,7 +43,7 @@ namespace UltimateFishBot
             btnClose.Text       = Translate.GetTranslate("frmMain", "BUTTON_EXIT");
             btnAbout.Text       = Translate.GetTranslate("frmMain", "BUTTON_ABOUT");
             lblStatus.Text      = Translate.GetTranslate("frmMain", "LABEL_STOPPED");
-            this.Text           = "UltimateFishBot - v " + System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
+            this.Text           = "GOMNOM" + System.Reflection.Assembly.GetExecutingAssembly().GetName().Version.ToString();
             ReloadHotkeys();
             CheckStatus();
         }
